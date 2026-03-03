@@ -14,5 +14,5 @@
   <img src="https://skillicons.dev/icons?i=discord">
 </div>
 <p align="center">
-  <span>roezir</span>
+  <span>roeworks</span>
 </p>
